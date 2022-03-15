@@ -1,0 +1,11 @@
+- 👋 Hi, I’m @LuccaV07;
+- 👀 I’m interested in Programming, RPG, Music and Games in general;
+- 🌱 I’m currently improving my knowledge in Python, getting started with MySQL and interested in Machine Learning;
+- 💞️ I’m looking to collaborate on any projects that I like really, I'm starting to build my GitHub right now so anything is nice :D
+- 📫 You can reach me via email, GitHub or LinkedIn.
+
+- 👋 Oi, eu sou o @LuccaV07;
+- 👀 Sou muito interessado em Programação, RPG, Música e Jogos no geral;
+- 🌱 No momento estou aprimorando meus conhecimentos em Python, começando com MySQL e interessado em Machine Learning;
+- 💞️ Estou procurando qualquer tipo de projeto para colaborar, na verdade, estou começando a montar meu GitHub agora, então qualquer coisa é bem vinda :D.
+- 📫 Você pode me contactar via email, pelo próprio GitHub ou LinkedIn.
